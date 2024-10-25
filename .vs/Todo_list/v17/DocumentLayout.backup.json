@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|c:\\users\\adaom\\videos\\learning-blazor\\todo_list\\todo_list\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|solutionrelative:todo_list\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|c:\\users\\adaom\\videos\\learning-blazor\\todo_list\\todo_list\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|solutionrelative:todo_list\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|c:\\users\\adaom\\videos\\learning-blazor\\todo_list\\todo_list\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|solutionrelative:todo_list\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|c:\\users\\adaom\\videos\\learning-blazor\\todo_list\\todo_list\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{469666FD-E702-488B-947F-13F056051CF4}|Todo_list\\Todo_list.csproj|solutionrelative:todo_list\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Todo_list\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\Pages\\Counter.razor",
+              "RelativeToolTip": "Todo_list\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T19:08:54.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\_Imports.razor",
+              "RelativeDocumentMoniker": "Todo_list\\_Imports.razor",
+              "ToolTip": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\_Imports.razor",
+              "RelativeToolTip": "Todo_list\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T19:08:51.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\App.razor",
+              "RelativeDocumentMoniker": "Todo_list\\App.razor",
+              "ToolTip": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\App.razor",
+              "RelativeToolTip": "Todo_list\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T19:08:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Todo_list\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\adaom\\Videos\\Learning-blazor\\Todo_list\\Todo_list\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Todo_list\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-25T19:08:20.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
